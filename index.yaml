@@ -3,13 +3,13 @@ entries:
   cognito-local:
   - apiVersion: v2
     appVersion: 3.20.0
-    created: "2022-07-13T17:23:26.7185835+01:00"
+    created: "2022-07-13T18:16:40.5445692+01:00"
     description: A Helm chart for cognito local, A Good Enough offline emulator for
       Amazon Cognito.
-    digest: aef16df325dc79a91eb028f2d7112e8c387cfdd02c703df5fe968a024f009f57
+    digest: e04058deda2a8958c6626a4746d29c7faf8d42cd9992395e920f7a52cf0903c2
     name: cognito-local
     type: application
     urls:
-    - cognito-local-1.0.0.tgz
-    version: 1.0.0
-generated: "2022-07-13T17:23:26.7175839+01:00"
+    - cognito-local-1.0.1.tgz
+    version: 1.0.1
+generated: "2022-07-13T18:16:40.5425682+01:00"
